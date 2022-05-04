@@ -1,0 +1,29 @@
+marquee{
+color:purple;
+font-size:90;
+font-family:lucida handwriting; 
+font-weight:bolder;
+text-align:center;
+}
+input
+{
+	margin-top:50px;
+	background:#66EAB1;
+	border-radius:40px;
+	box-shadow:5px 5px orange;
+	color:brown;
+	font-family:lucida handwriting; 
+	font-weight:bold;
+	width:300px;
+	height:80px;
+	font-size:35px;
+	text-align:center;
+	
+}
+p{
+	color:red;
+font-size:50;
+font-family:Gabriola; 
+font-weight:bolder;
+text-align:center;
+}
